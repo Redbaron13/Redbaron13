@@ -2,7 +2,7 @@
 - 👀 I’m interested in computers, technology, drones and crypto. 
 - 🌱 I’m currently learning drones 
 - 💞️ I’m looking to collaborate on anything 
-- 📫 How to reach me kevinbaron13@gmail.com
+- 📫 How to reach me message me.
 
 <!---
 Redbaron13/Redbaron13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
